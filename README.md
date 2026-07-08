@@ -1,27 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Abdullah+Hassan;Python+Developer+🐍;Future+Full+Stack+Developer;AI+Enthusiast+🤖;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hello+There+👋;I'm+Abdullah+Hassan;Python+Developer;Future+Full+Stack+Engineer;AI+Enthusiast;Always+Learning+🚀"/>
 
 <br>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue&label=Profile+Views)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 Technologies I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bootstrap,tailwind,react,nodejs,express,django,flask,mysql,mongodb,sqlite,firebase,git,github,vscode,figma,linux,bash,docker,postman&perline=8"/>
+
+</p>
+
+---
 
 ```python
 class Abdullah:
 
     def __init__(self):
+
         self.name = "Abdullah Hassan"
-        self.country = "Egypt 🇪🇬"
+
+        self.location = "Egypt 🇪🇬"
 
         self.learning = [
             "Python",
@@ -30,30 +40,32 @@ class Abdullah:
             "Artificial Intelligence"
         ]
 
-        self.interests = [
-            "Programming",
-            "Technology",
-            "Open Source",
-            "Building Projects"
+        self.favorite_tools = [
+            "VS Code",
+            "Git",
+            "GitHub",
+            "Linux",
+            "Figma"
         ]
 
-    def motto(self):
-        return "Learn • Build • Improve • Repeat 🚀"
+        self.goal = "Become a Professional Full Stack Developer"
+
 ```
 
 ---
 
-# 🚀 Tech Stack
+### 💻 About Me
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bootstrap,tailwind,react,nodejs,express,django,flask,mysql,mongodb,sqlite,firebase,git,github,vscode,visualstudio,figma,linux,bash,postman,npm,docker&perline=7"/>
-
-</p>
+- 🐍 Currently learning **Python & Data Structures**
+- 🌐 Interested in **Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence**
+- 📚 Love building real-world projects
+- 🚀 Learning something new every day
+- ☕ Coffee + Code = Perfect Day
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -65,7 +77,7 @@ class Abdullah:
 
 ---
 
-# 💻 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
 
@@ -75,47 +87,37 @@ class Abdullah:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# ⚡ Current Goals
+## 💡 Current Focus
 
-- 🐍 Master Python
-- 🌐 Become a Full Stack Developer
-- 🤖 Learn Artificial Intelligence
-- 📚 Solve 1000+ Programming Problems
-- 🚀 Build Amazing Projects
-- 🌍 Contribute to Open Source
-
----
-
-# 🛠️ Currently Working On
-
-- 📖 Learning Data Structures & Algorithms
-- 🌐 Building Web Applications
-- 🤖 Exploring AI & Machine Learning
-- 💻 Improving Programming Skills Every Day
+- 🚀 Full Stack Development
+- 🐍 Advanced Python
+- 🧠 Artificial Intelligence
+- 💻 Open Source
+- 📱 Modern Web Applications
 
 ---
 
-# 📫 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
 
@@ -123,11 +125,11 @@ class Abdullah:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -135,26 +137,25 @@ class Abdullah:
 
 ---
 
-# ☕ Coffee & Code
+## ☕ Code Routine
 
 ```python
-while True:
+while alive:
 
-    coffee ☕
-    code()
-    debug()
     learn()
 
-    if success:
-        celebrate()
+    build()
 
-    else:
-        keep_trying()
+    debug()
+
+    improve()
+
+    repeat()
 ```
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
 
@@ -164,16 +165,10 @@ while True:
 
 ---
 
-# 💭 Favorite Quote
-
-> **"Success doesn't come from what you know. It comes from what you build."**
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⚡ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=160&section=footer"/>
 
 </div>
