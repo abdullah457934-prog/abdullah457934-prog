@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="YOUR_CUSTOM_BANNER.gif" width="100%" alt="Banner"/>
+<img src="YOUR_CUSTOM_BANNER.gif" width="100%" alt="Abdullah Hassan Banner"/>
 
 # Hi 👋 I'm Abdullah Hassan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=700&lines=Python+Developer;Future+Full+Stack+Engineer;AI+Enthusiast;Always+Learning+New+Things" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=700&lines=Python+Developer;Future+Full+Stack+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Building+Something+New" alt="Typing SVG"/>
 
 </div>
 
@@ -17,13 +17,14 @@
 
 ## 👨‍💻 About Me
 
-- 🐍 Python Developer
-- 🚀 Currently learning Full Stack Development
-- 🤖 Interested in Artificial Intelligence
-- 🇪🇬 Based in Egypt
-- 💡 Passionate about solving problems
-- 📚 Learning something new every day
-- ☕ Coffee + Code = ❤️
+- 👤 **Name:** Abdullah Hassan
+- 🇪🇬 **Location:** Egypt
+- 🐍 **Main Language:** Python
+- 🌐 **Currently Learning:** Full Stack Development
+- 🤖 **Interested In:** Artificial Intelligence & Automation
+- 💻 **Passion:** Building useful software and solving real-world problems
+- 📚 **Current Goal:** Become a Professional Software Engineer
+- ☕ **Fun Fact:** Coffee makes debugging easier 😄
 
 </td>
 
@@ -42,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,mysql,docker,git,github,vscode,linux,figma,postgres,firebase,bootstrap&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,mysql,postgres,docker,firebase,git,github,vscode,linux,figma,bootstrap&perline=6"/>
 
 </div>
 
@@ -52,7 +53,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
@@ -66,11 +67,11 @@
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -96,27 +97,37 @@
 
 ---
 
-# 🌎 Connect With Me
+# 🌍 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://x.com/YOUR_X">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- 🌐 Become a Full Stack Developer
+- 🤖 Learn AI & Machine Learning
+- 🚀 Build impactful open-source projects
+- 💼 Land a Software Engineering role
 
 ---
 
@@ -127,6 +138,7 @@ while True:
     learn()
     build()
     improve()
+    share()
     repeat()
 ```
 
@@ -136,6 +148,6 @@ while True:
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 
 </div>
