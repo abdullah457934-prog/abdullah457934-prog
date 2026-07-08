@@ -1,119 +1,102 @@
-<h1 align="center">Hi 👋, I'm Abdullah Hassan</h1>
-<h3 align="center">Computer Science Student | Future Software Engineer | Content Creator 🇪🇬</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Future+Software+Engineer;Cybersecurity+Enthusiast;AI+Learner;Building+Projects+Every+Day" />
+# 👋 Hi, I'm Abdullah Hassan
+
+### Computer Science Student • Software Engineer in Progress • 🇪🇬 Egypt
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+my+future+one+commit+at+a+time.;Learning+Computer+Science.;Cybersecurity+%7C+AI+%7C+Software+Development.;Always+curious.+Always+learning." />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```text
+🎓 Computer Science Student
+📚 Author of "Programming Roadmap for Beginners"
+💻 Passionate about Software Development
+🔐 Interested in Cybersecurity
+🤖 Exploring Artificial Intelligence
+🌱 Currently learning CS50, C, Python and Git
+```
+
+---
+
+## ⚡ Current Focus
+
+- 📖 Computer Science Fundamentals
+- 🧠 Problem Solving
+- 💻 Building Real Projects
+- 📚 Publishing Educational Content
+- 🌍 Preparing for International Scholarships
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode,linux,canva"/>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 📚 Publications
 
-🎓 Computer Science Student from Egypt.
+📘 **Programming Roadmap for Beginners**
 
-💻 Passionate about Programming, Cybersecurity and Artificial Intelligence.
-
-📚 Author of the eBook **Programming Roadmap for Beginners**.
-
-🚀 Currently learning Computer Science fundamentals through **CS50**.
-
-🎯 My goal is to become a Software Engineer and help beginners learn programming.
+Helping beginners start their programming journey with free resources and a clear roadmap.
 
 ---
 
-# 🛠 Tech Stack
+## 📈 GitHub Stats
 
-### Languages
+<p align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+</p>
 
 ---
 
-# 📖 My Digital Products
+## 🔥 GitHub Streak
 
-📘 Programming Roadmap for Beginners
+<p align="center">
 
-More digital products coming soon...
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
 
----
-
-# 🌱 Currently Learning
-
-- CS50
-- Data Structures
-- Algorithms
-- Python
-- Git & GitHub
-- Cybersecurity
-- AI
+</p>
 
 ---
 
-# 🚀 Current Goals
+## 🌍 Connect With Me
 
-✅ Publish Digital Products
+<p align="center">
 
-✅ Build Strong GitHub Portfolio
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-✅ Win International Scholarships
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-✅ Become a Software Engineer
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
----
-
-# 🏆 Certificates
-
-🎓 Cybersecurity in Finance — Simplilearn
-
-More Coming Soon...
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+</p>
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)]()
+> **"Small progress every day leads to big results."**
 
----
+⭐ Thanks for visiting my profile!
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 📫 Connect With Me
-
-📧 Email: your@email.com
-
-💼 LinkedIn: Coming Soon
-
-🌐 Portfolio: Coming Soon
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+</div>
