@@ -1,83 +1,119 @@
-<div align="center" width="50">
+<div align="center">
 
-# Hi there, I'm Abdullah Hassan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Abdullah%20Hassan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18"/>
 
-### Egyptian CS Student | Passionate about Programming & AI 🇪🇬
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Web+%26+Game+Developer+%F0%9F%8C%90%F0%9F%8E%AE;Cybersecurity+Learner+%F0%9F%94%90" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Web+%26+Game+Developer;Cybersecurity+Learner" alt="Typing SVG" />
+<br>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Abdullah-Hassan&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdullah-Hassan&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram badge](https://img.shields.io/badge/Telegram-Abdullah-grey?style=flat&logo=telegram)](https://t.me/your_username)
+![Totals Hits](https://komarev.com/ghpvc/?username=Abdullah-Hassan&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
 </div>
 
-<hr></hr>
+<hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-blue)
-![semicolon](https://img.shields.io/badge/-%3A-blue)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+### 🧠 About Me
 
-```python
-# tools_I_use organized
-
-class About:
-    def __init__(self):
-        self.name = "Abdullah Hassan"
-        self.role = "Computer Science Student"
-        self.tools = {
-            "ProgrammingLanguages": ["Python", "C", "JavaScript"],
-            "WebDevelopment": ["HTML", "CSS", "JavaScript"],
-            "AI_ML": ["Machine Learning", "Deep Learning basics"],
-            "GameDevelopment": ["Learning in progress"],
-            "Cybersecurity": ["Network Security", "Ethical Hacking basics"],
-            "Editors": ["VS Code"],
-            "Platforms": ["GNU/Linux", "Windows"],
-        }
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
-
-
-me = About()
-me.say_hi()
+```yaml
+name: Abdullah Hassan
+role: Computer Science Student 🇪🇬
+passionate_about:
+  - Artificial Intelligence & Machine Learning
+  - Web Development
+  - Game Development
+  - Cybersecurity & Ethical Hacking
+currently_learning: [Python, C, Web Dev Languages]
+fun_fact: "Always curious about how things work under the hood 🔍"
 ```
 
-- 🎓 &nbsp; I'm a university student passionate about programming and tech.
+- 🎓 &nbsp; University student passionate about programming and technology.
 - 🤖 &nbsp; Deeply interested in **Artificial Intelligence & Machine Learning**.
-- 🌐 &nbsp; Currently learning and building in **Web Development**.
-- 🎮 &nbsp; Exploring **Game Development**.
+- 🌐 &nbsp; Learning and building projects in **Web Development**.
+- 🎮 &nbsp; Exploring the world of **Game Development**.
 - 🔐 &nbsp; Passionate about **Cybersecurity**.
-- 🐍 &nbsp; Learning **Python**, web development languages, and **C**.
+- 🐍 &nbsp; Currently mastering **Python**, web technologies, and **C**.
 - 📚 &nbsp; Always excited to learn something new in tech.
-- 💬 &nbsp; Find me on Telegram: **[Your Handle](https://t.me/your_username)**
+
+<hr>
+
+### 🚀 Tools & Technologies
 
 <div align="center">
-<a href="https://github.com/Abdullah-Hassan">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Hassan&show_icons=true&theme=dark&hide_border=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Hassan&theme=dark&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hassan&layout=compact&theme=dark&hide_border=true" width="48%">
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-</a>
+</div>
 
-<hr></hr>
+<hr>
 
-**Code Cycle**<br>
+### 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Hassan&theme=tokyonight&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hassan&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+
+</div>
+
+<hr>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Hassan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+<hr>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Hassan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<hr>
+
+### 🌱 Currently Learning
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-2F80ED?style=for-the-badge)
+![Cyber](https://img.shields.io/badge/-Cybersecurity-2F80ED?style=for-the-badge)
+![Games](https://img.shields.io/badge/-Game%20Development-2F80ED?style=for-the-badge)
+
+</div>
+
+<hr>
+
+<div align="center">
+
+**Code Cycle** 😄
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="It's working but I don't know how!"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=100&section=footer"/>
 
 </div>
