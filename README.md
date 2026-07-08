@@ -1,217 +1,83 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="YOUR_CUSTOM_BANNER.gif" width="100%" alt="Abdullah Hassan Banner"/>
+# Hi there, I'm Abdullah Hassan 👋
 
-# 👋 Hi, I'm Abdullah Hassan
+### Egyptian CS Student | Passionate about Programming & AI 🇪🇬
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Future+Full+Stack+Engineer;AI+Enthusiast;Open+Source+Learner;Always+Building+Awesome+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Web+%26+Game+Developer;Cybersecurity+Learner" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge"/>
-</p>
+![Totals Hits](https://komarev.com/ghpvc/?username=Abdullah-Hassan&style=flat&color=blue&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdullah-Hassan&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![Telegram badge](https://img.shields.io/badge/Telegram-Abdullah-grey?style=flat&logo=telegram)](https://t.me/your_username)
 
 </div>
 
----
+<hr></hr>
 
-<table>
-<tr>
-
-<td width="45%" valign="top">
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Abdullah Hassan
-Country: Egypt 🇪🇬
-Language: Python 🐍
-Learning: Full Stack Development 🌐
-Interested In:
-  - Artificial Intelligence
-  - Automation
-  - Backend Development
-
-Goal:
-  Become a Professional Software Engineer 🚀
-
-Fun Fact:
-  Coffee ☕ + Music 🎧 = Better Coding
-```
-
-### 🚀 Currently
-
-- 🔭 Building personal projects
-- 📖 Learning React & Node.js
-- 🤖 Exploring AI
-- 💡 Solving programming problems daily
-- ❤️ Love Open Source
-
-</td>
-
-<td width="55%" align="center">
-
-<img src="YOUR_CODING_GIF.gif" width="100%">
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,mongodb,mysql,postgres,docker,firebase,git,github,vscode,linux,bootstrap,figma&perline=6"/>
-
-</div>
-
----
-
-# ⚡ GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🛠 Tools I Use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman,npm,firebase,docker,figma"/>
-
-</div>
-
----
-
-# 🌎 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://x.com/YOUR_X">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-# 🎯 Goals
-
-- ✅ Master Python
-- 🌐 Become a Full Stack Engineer
-- 🤖 Learn Artificial Intelligence
-- 🚀 Build Open Source Projects
-- 💼 Land a Software Engineering Role
-
----
-
-# ☕ My Coding Philosophy
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-blue)
+![semicolon](https://img.shields.io/badge/-%3A-blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```python
-class Abdullah:
+# tools_I_use organized
 
+class About:
     def __init__(self):
-        self.skills = []
+        self.name = "Abdullah Hassan"
+        self.role = "Computer Science Student"
+        self.tools = {
+            "ProgrammingLanguages": ["Python", "C", "JavaScript"],
+            "WebDevelopment": ["HTML", "CSS", "JavaScript"],
+            "AI_ML": ["Machine Learning", "Deep Learning basics"],
+            "GameDevelopment": ["Learning in progress"],
+            "Cybersecurity": ["Network Security", "Ethical Hacking basics"],
+            "Editors": ["VS Code"],
+            "Platforms": ["GNU/Linux", "Windows"],
+        }
 
-    def learn(self):
-        self.skills.append("New Skill")
+    def say_hi(self):
+        print("Thanks for visiting my profile! 🚀")
 
-    def build(self):
-        print("Building something awesome 🚀")
 
-    def repeat(self):
-        while True:
-            self.learn()
-            self.build()
-
-me = Abdullah()
-me.repeat()
+me = About()
+me.say_hi()
 ```
 
----
+- 🎓 &nbsp; I'm a university student passionate about programming and tech.
+- 🤖 &nbsp; Deeply interested in **Artificial Intelligence & Machine Learning**.
+- 🌐 &nbsp; Currently learning and building in **Web Development**.
+- 🎮 &nbsp; Exploring **Game Development**.
+- 🔐 &nbsp; Passionate about **Cybersecurity**.
+- 🐍 &nbsp; Learning **Python**, web development languages, and **C**.
+- 📚 &nbsp; Always excited to learn something new in tech.
+- 💬 &nbsp; Find me on Telegram: **[Your Handle](https://t.me/your_username)**
 
 <div align="center">
+<a href="https://github.com/Abdullah-Hassan">
 
-## ⚡ Random Dev Quote
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Hassan&show_icons=true&theme=dark&hide_border=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Hassan&theme=dark&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hassan&layout=compact&theme=dark&hide_border=true" width="48%">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</a>
 
-</div>
+<hr></hr>
 
----
+**Code Cycle**<br>
 
-<div align="center">
-
-### 🎵 Now Playing
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Thanks for Visiting
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
