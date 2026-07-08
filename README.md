@@ -1,66 +1,85 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hello+There+👋;I'm+Abdullah+Hassan;Python+Developer;Future+Full+Stack+Engineer;AI+Enthusiast;Always+Learning+🚀"/>
+<img src="YOUR_CUSTOM_BANNER.gif" width="100%" />
 
-</div>
+<h1>Hi 👋 I'm Abdullah Hassan</h1>
 
-<table align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=650&lines=Python+Developer;Future+Full+Stack+Engineer;AI+Enthusiast;Always+Learning+New+Things" />
+
+<table>
 <tr>
+<td width="45%">
 
-<td width="45%" align="center">
+### 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+🐍 Python Developer
+
+🚀 Learning Full Stack
+
+🤖 AI Enthusiast
+
+🇪🇬 Egypt
+
+☕ Coffee + Code
 
 </td>
 
 <td width="55%">
 
-```yaml
-👨 Name: Abdullah Hassan
-
-🎓 Student & Self-Learner
-
-📍 Location: Egypt 🇪🇬
-
-💻 Interested In:
-   • Python
-   • Full Stack Development
-   • Artificial Intelligence
-
-📚 Currently Learning:
-   • Python
-   • Problem Solving
-   • HTML & CSS
-   • JavaScript
-
-🎯 2026 Goals:
-   • Become a Full Stack Developer
-   • Build 20+ Projects
-   • Contribute to Open Source
-
-☕ Fun Fact:
-   I enjoy turning ideas into code 🚀
-```
+<img src="YOUR_CODING_GIF.gif" width="100%">
 
 </td>
-
 </tr>
 </table>
 
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,mysql,docker,git,github,vscode,linux,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
+<!-- GitHub Stats -->
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<!-- Streak -->
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<!-- Languages -->
 
 </div>
+
+---
+
+## 🏆 Achievements
+
+<!-- GitHub Trophies -->
+
+---
+
+## 📈 Activity
+
+<!-- Activity Graph -->
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Snake Animation -->
+
+---
+
+## ☕ Code Philosophy
+
+```python
+while True:
+    learn()
+    build()
+    improve()
